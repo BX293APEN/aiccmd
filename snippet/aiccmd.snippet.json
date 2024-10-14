@@ -5,9 +5,10 @@
             "TX_BOARD "
         ],
         "description":[
-            "メッセージ/お知らせ",
-            "Message/Notices",
-            "书信/告示牌"
+            "日本語 : ",
+            "メッセージ/お知らせ\nEnglish : ",
+            "Message/Notices\n中文 : ",
+            "书信/告示牌\n"
             
         ]
     },
@@ -17,9 +18,10 @@
             "MSG "
         ],
         "description":[
-            "会話・独り言のセリフを設定",
-            "Dialogue/Monologue",
-            "对话/独白"
+            "日本語 : ",
+            "会話・独り言のセリフを設定\nEnglish : ",
+            "Dialogue/Monologue\n中文 : ",
+            "对话/独白\n"
         ]
     },
     "[MSG_PREFIX]":{
@@ -28,10 +30,10 @@
             "MSG_PREFIX "
         ],
         "description":[
-            "会話・独り言のセリフの開始",
-            "Dialogue/monologue prefix",
-            "对话/独白前缀"
-
+            "日本語 : ",
+            "会話・独り言のセリフの開始\nEnglish : ",
+            "Dialogue/Monologue prefix\n中文 : ",
+            "对话/独白前缀\n"
         ]
     },
     "[TALKER]":{
@@ -40,9 +42,10 @@
             "TALKER "
         ],
         "description":[
-            "立ち絵の位置を変更",
-            "Change the portrait position",
-            "更改立绘位置"
+            "日本語 : ",
+            "立ち絵の位置を変更\nEnglish : ",
+            "Change the portrait position\n中文 : ",
+            "更改立绘位置\n"
         ]
     },
     "[TALKER_REPLACE]":{
@@ -51,9 +54,10 @@
             "TALKER_REPLACE "
         ],
         "description":[
-            "キャラクターの名前と声をリンクさせる",
-            "Linking character names and voices",
-            "绑定姓名音效"
+            "日本語 : ",
+            "キャラクターの名前と声をリンクさせる\nEnglish : ",
+            "Linking character names and voices\n中文 : ",
+            "绑定姓名音效\n"
         ]
     },
     "[HKDS]":{
@@ -62,9 +66,10 @@
             "HKDS "
         ],
         "description":[
-            "ダイアログボックスのスタイルを設定",
-            "Dialog box style Settings",
-            "对话框样式设置"
+            "日本語 : ",
+            "ダイアログボックスのスタイルを設定\nEnglish : ",
+            "Dialog box style Settings\n中文 : ",
+            "对话框样式设置\n"
         ]
     },
     "[PIC]":{
@@ -73,9 +78,10 @@
             "PIC "
         ],
         "description":[
-            "描画差分を変更して立ち絵を表示する",
-            "Change the drawing difference and display picture",
-            "更改立绘差分、显示图片"
+            "日本語 : ",
+            "描画差分を変更して立ち絵を表示する\nEnglish : ",
+            "Change the drawing difference and display picture\n中文 : ",
+            "更改立绘差分、显示图片\n"
         ]
     },
     "[PIC_B]":{
@@ -84,9 +90,10 @@
             "PIC_B "
         ],
         "description":[
-            "単色背景で立ち絵を表示",
-            "Display picture with solid color background",
-            "带纯色背景显示图片"
+            "日本語 : ",
+            "単色背景で立ち絵を表示\nEnglish : ",
+            "Display picture with solid color background\n中文 : ",
+            "带纯色背景显示图片\n"
         ]
     },
     "[PIC_MP]":{
@@ -95,9 +102,10 @@
             "PIC_MP "
         ],
         "description":[
-            "立ち絵の表情を変更",
-            "Change the facial expression of the character",
-            "立绘表情符号"
+            "日本語 : ",
+            "立ち絵の表情を変更\nEnglish : ",
+            "Change the facial expression of the character\n中文 : ",
+            "立绘表情符号\n"
         ]
     },
     "[MIC_MP2]":{
@@ -106,9 +114,10 @@
             "MIC_MP2 "
         ],
         "description":[
-            "立ち絵の表情を変更",
-            "Change the facial expression of the character",
-            "立绘表情符号"
+            "日本語 : ",
+            "立ち絵の表情を変更\nEnglish : ",
+            "Change the facial expression of the character\n中文 : ",
+            "立绘表情符号\n"
         ]
     },
     "[PIC_MOVEA]":{
@@ -117,9 +126,10 @@
             "PIC_MOVEA "
         ],
         "description":[
-            "立ち絵にエフェクトを付ける",
-            "Add effects to portraits",
-            "立绘抖动"
+            "日本語 : ",
+            "立ち絵にエフェクトを付ける\nEnglish : ",
+            "Add effects to portraits\n中文 : ",
+            "立绘抖动\n"
         ]
     },
     "[PIC_MVA]":{
@@ -128,9 +138,10 @@
             "PIC_MVA "
         ],
         "description":[
-            "立ち絵にエフェクトを付ける",
-            "Add effects to portraits",
-            "立绘抖动"
+            "日本語 : ",
+            "立ち絵にエフェクトを付ける\nEnglish : ",
+            "Add effects to portraits\n中文 : ",
+            "立绘抖动\n"
         ]
     },
     "[PIC_MVA_WHOLE]":{
@@ -139,9 +150,10 @@
             "PIC_MVA_WHOLE "
         ],
         "description":[
-            "立ち絵にエフェクトを付ける",
-            "Add effects to portraits",
-            "立绘抖动"
+            "日本語 : ",
+            "立ち絵にエフェクトを付ける\nEnglish : ",
+            "Add effects to portraits\n中文 : ",
+            "立绘抖动\n"
         ]
     },
     "[PIC_FILL]":{
@@ -150,9 +162,10 @@
             "PIC_FILL "
         ],
         "description":[
-            "立ち絵を塗りつぶす",
-            "Fill the portrait",
-            "画面淡入淡出"
+            "日本語 : ",
+            "立ち絵を塗りつぶす\nEnglish : ",
+            "Fill the portrait\n中文 : ",
+            "画面淡入淡出\n"
         ]
     },
     "[PIC_FADEIN]":{
@@ -161,9 +174,10 @@
             "PIC_FADEIN "
         ],
         "description":[
-            "立ち絵をフェードインする",
-            "Fade in the portrait",
-            "画面淡入淡出"
+            "日本語 : ",
+            "立ち絵をフェードインする\nEnglish : ",
+            "Fade in the portrait\n中文 : ",
+            "画面淡入淡出\n"
         ]
     },
     "[PIC_FADEOUT]":{
@@ -172,9 +186,10 @@
             "PIC_FADEOUT "
         ],
         "description":[
-            "立ち絵をフェードアウトする",
-            "Fade out the portrait",
-            "画面淡入淡出"
+            "日本語 : ",
+            "立ち絵をフェードアウトする\nEnglish : ",
+            "Fade out the portrait\n中文 : ",
+            "画面淡入淡出\n"
         ]
     },
     "[PIC_FLASH]":{
@@ -183,9 +198,10 @@
             "PIC_FLASH "
         ],
         "description":[
-            "画面をちらつかせる",
-            "Flickering the screen",
-            "画面纯色闪烁"
+            "日本語 : ",
+            "画面をちらつかせる\nEnglish : ",
+            "Flickering the screen\n中文 : ",
+            "画面纯色闪烁\n"
         ]
     },
     "[PIC_FLIP]":{
@@ -194,9 +210,10 @@
             "PIC_FLIP "
         ],
         "description":[
-            "立ち絵を反転させる",
-            "Flip the portrait",
-            "图片翻转"
+            "日本語 : ",
+            "立ち絵を反転させる\nEnglish : ",
+            "Flip the portrait\n中文 : ",
+            "图片翻转\n"
         ]
     },
     "[PIC_HIDE]":{
@@ -205,9 +222,10 @@
             "PIC_HIDE "
         ],
         "description":[
-            "立ち絵・画像を非表示",
-            "Hide portraits and images",
-            "隐藏立绘或图片"
+            "日本語 : ",
+            "立ち絵・画像を非表示\nEnglish : ",
+            "Hide portraits and images\n中文 : ",
+            "隐藏立绘或图片\n"
         ]
     },
     "[PIC_HIDE_ALL]":{
@@ -216,9 +234,10 @@
             "PIC_HIDE_ALL "
         ],
         "description":[
-            "立ち絵・画像を非表示",
-            "Hide portraits and images",
-            "隐藏立绘或图片"
+            "日本語 : ",
+            "立ち絵・画像を非表示\nEnglish : ",
+            "Hide portraits and images\n中文 : ",
+            "隐藏立绘或图片\n"
         ]
     },
     "[PIC_MOVE]":{
@@ -227,9 +246,10 @@
             "PIC_MOVE "
         ],
         "description":[
-            "立ち絵・画像を移動",
-            "Moving portraits and images",
-            "平移立绘或图片"
+            "日本語 : ",
+            "立ち絵・画像を移動\nEnglish : ",
+            "Moving portraits and images\n中文 : ",
+            "平移立绘或图片\n"
         ]
     },
     "[PIC_MOVE2]":{
@@ -238,9 +258,10 @@
             "PIC_MOVE2 "
         ],
         "description":[
-            "立ち絵・画像を移動",
-            "Moving portraits and images",
-            "平移立绘或图片"
+            "日本語 : ",
+            "立ち絵・画像を移動\nEnglish : ",
+            "Moving portraits and images\n中文 : ",
+            "平移立绘或图片\n"
         ]
     },
     "[PIC_RADIATION]":{
@@ -249,9 +270,10 @@
             "PIC_RADIATION "
         ],
         "description":[
-            "放射状の強調エフェクトを付ける",
-            "Add a radial emphasis effect",
-            "万箭穿心"
+            "日本語 : ",
+            "放射状の強調エフェクトを付ける\nEnglish : ",
+            "Add a radial emphasis effect\n中文 : ",
+            "万箭穿心\n"
         ]
     },
     "[PIC_SWAP]":{
@@ -260,9 +282,10 @@
             "PIC_SWAP "
         ],
         "description":[
-            "レイヤを入れ替える",
-            "Swap layers",
-            "交换图层"
+            "日本語 : ",
+            "レイヤを入れ替える\nEnglish : ",
+            "Swap layers\n中文 : ",
+            "交换图层\n"
         ]
     },
     "[PIC_SWIN]":{
@@ -271,9 +294,10 @@
             "PIC_SWIN "
         ],
         "description":[
-            "1 つのプロンプト画像を表示",
-            "Displays a single prompt image",
-            "显示单张提示图片"
+            "日本語 : ",
+            "1 つのプロンプト画像を表示\nEnglish : ",
+            "Displays a single prompt image\n中文 : ",
+            "显示单张提示图片\n"
         ]
     },
     "[PIC_SILHOUETTE]":{
@@ -282,9 +306,10 @@
             "PIC_SILHOUETTE "
         ],
         "description":[
-            "立ち絵のシルエットを表示",
-            "Display silhouette of character",
-            "显示立绘剪影"
+            "日本語 : ",
+            "立ち絵のシルエットを表示\nEnglish : ",
+            "Display silhouette of character\n中文 : ",
+            "显示立绘剪影\n"
         ]
     },
     "[PIC_TFADE]":{
@@ -293,9 +318,10 @@
             "PIC_TFADE "
         ],
         "description":[
-            "特殊グラデーションを画像に設定",
-            "Set special gradient to image",
-            "图片特殊渐变"
+            "日本語 : ",
+            "特殊グラデーションを画像に設定\nEnglish : ",
+            "Set special gradient to image\n中文 : ",
+            "图片特殊渐变\n"
         ]
     },
     "[PIC_TEMP_REPLACE_TERM]":{
@@ -304,9 +330,10 @@
             "PIC_TEMP_REPLACE_TERM "
         ],
         "description":[
-            "立ち絵代替ルール",
-            "Alternative rules for character portraits",
-            "立绘替换规则"
+            "日本語 : ",
+            "立ち絵代替ルール\nEnglish : ",
+            "Alternative rules for character portraits\n中文 : ",
+            "立绘替换规则\n"
         ]
     },
     "[PIC_CLEAR_TERM_CACHE]":{
@@ -315,9 +342,10 @@
             "PIC_CLEAR_TERM_CACHE "
         ],
         "description":[
-            "立ち絵代替ルール",
-            "Alternative rules for character portraits",
-            "立绘替换规则"
+            "日本語 : ",
+            "立ち絵代替ルール\nEnglish : ",
+            "Alternative rules for character portraits\n中文 : ",
+            "立绘替换规则\n"
         ]
     },
     "[PIC_R]":{
@@ -326,9 +354,10 @@
             "PIC_R "
         ],
         "description":[
-            "F7コンソールコマンド",
-            "F7 Console Command",
-            "游戏中未使用，似乎不是哈语言指令而是 F7 控制台命令。"
+            "日本語 : ",
+            "F7コンソールコマンド\nEnglish : ",
+            "F7 Console Command\n中文 : ",
+            "游戏中未使用，似乎不是哈语言指令而是 F7 控制台命令。\n"
         ]
     },
     "[PIC_FINE]":{
@@ -337,9 +366,10 @@
             "PIC_FINE "
         ],
         "description":[
-            "レイヤパラメータ有",
-            "There are layer parameters",
-            "带一个图层参数"
+            "日本語 : ",
+            "レイヤパラメータ有\nEnglish : ",
+            "There are layer parameters\n中文 : ",
+            "带一个图层参数\n"
         ]
     },
     "[PIC_FINE_ALL]":{
@@ -348,9 +378,10 @@
             "PIC_FINE_ALL "
         ],
         "description":[
-            "レイヤパラメータ無",
-            "There aren't layer parameters",
-            "无参数且在休息室的浴室和牧场用到"
+            "日本語 : ",
+            "レイヤパラメータ無\nEnglish : ",
+            "There aren't layer parameters\n中文 : ",
+            "无参数且在休息室的浴室和牧场用到\n"
         ]
     },
     "[PIC_RECT]":{
@@ -359,9 +390,10 @@
             "PIC_REC "
         ],
         "description":[
-            "現在、ゲームでは使用されていません。",
-            "Currently not used in the game.",
-            "游戏中未使用"
+            "日本語 : ",
+            "現在、ゲームでは使用されていません。\nEnglish : ",
+            "Currently not used in the game.\n中文 : ",
+            "游戏中未使用\n"
         ]
     },
     "[WAIT]":{
@@ -370,9 +402,10 @@
             "WAIT "
         ],
         "description":[
-            "指定されたフレーム数待機",
-            "Wait a specified number of frames",
-            "阻塞指定帧数"
+            "日本語 : ",
+            "指定されたフレーム数待機\nEnglish : ",
+            "Wait a specified number of frames\n中文 : ",
+            "阻塞指定帧数\n"
         ]
     },
     "[WAIT_BUTTON]":{
@@ -381,9 +414,10 @@
             "WAIT_BUTTON "
         ],
         "description":[
-            "指定されたフレーム数待機",
-            "Wait a specified number of frames",
-            "阻塞指定帧数"
+            "日本語 : ",
+            "指定されたフレーム数待機\nEnglish : ",
+            "Wait a specified number of frames\n中文 : ",
+            "阻塞指定帧数\n"
         ]
     },
     "[MTL]":{
@@ -392,9 +426,10 @@
             "MTL "
         ],
         "description":[
-            "遅延修飾子",
-            "Delay Modifier",
-            "延迟修饰符"
+            "日本語 : ",
+            "遅延修飾子\nEnglish : ",
+            "Delay Modifier\n中文 : ",
+            "延迟修饰符\n"
         ]
     },
     "[TL]":{
@@ -403,9 +438,10 @@
             "TL "
         ],
         "description":[
-            "遅延修飾子",
-            "Delay Modifier",
-            "延迟修饰符"
+            "日本語 : ",
+            "遅延修飾子\nEnglish : ",
+            "Delay Modifier\n中文 : ",
+            "延迟修饰符\n"
         ]
     },
     "[DOTL]":{
@@ -414,9 +450,10 @@
             "DOTL "
         ],
         "description":[
-            "遅延をキャンセル",
-            "Cancel delay",
-            "取消延迟"
+            "日本語 : ",
+            "遅延をキャンセル\nEnglish : ",
+            "Cancel delay\n中文 : ",
+            "取消延迟\n"
         ]
     },
     "[DOMTL]":{
@@ -425,9 +462,10 @@
             "DOMTL "
         ],
         "description":[
-            "遅延をキャンセル",
-            "Cancel delay",
-            "取消延迟"
+            "日本語 : ",
+            "遅延をキャンセル\nEnglish : ",
+            "Cancel delay\n中文 : ",
+            "取消延迟\n"
         ]
     },
     "[CLEARTL]":{
@@ -436,9 +474,10 @@
             "CLEARTL "
         ],
         "description":[
-            "遅延をキャンセル",
-            "Cancel delay",
-            "取消延迟"
+            "日本語 : ",
+            "遅延をキャンセル\nEnglish : ",
+            "Cancel delay\n中文 : ",
+            "取消延迟\n"
         ]
     },
     "[CLEARMTL]":{
@@ -447,9 +486,10 @@
             "CLEARMTL "
         ],
         "description":[
-            "遅延をキャンセル",
-            "Cancel delay",
-            "取消延迟"
+            "日本語 : ",
+            "遅延をキャンセル\nEnglish : ",
+            "Cancel delay\n中文 : ",
+            "取消延迟\n"
         ]
     },
     "[CHANGE_EVENT]":{
@@ -458,9 +498,10 @@
             "CHANGE_EVENT "
         ],
         "description":[
-            "別のイベントにジャンプ",
-            "Jump to another event",
-            "跳转到另一事件"
+            "日本語 : ",
+            "別のイベントにジャンプ\nEnglish : ",
+            "Jump to another event\n中文 : ",
+            "跳转到另一事件\n"
         ]
     },
     "[CHANGE_EVENT2]":{
@@ -469,9 +510,10 @@
             "CHANGE_EVENT2 "
         ],
         "description":[
-            "別のイベントにジャンプ",
-            "Jump to another event",
-            "跳转到另一事件"
+            "日本語 : ",
+            "別のイベントにジャンプ\nEnglish : ",
+            "Jump to another event\n中文 : ",
+            "跳转到另一事件\n"
         ]
     },
     "[MODULE]":{
@@ -480,9 +522,10 @@
             "MODULE "
         ],
         "description":[
-            "マクロの実行",
-            "Execute macro",
-            "执行宏"
+            "日本語 : ",
+            "マクロの実行\nEnglish : ",
+            "Execute macro\n中文 : ",
+            "执行宏\n"
         ]
     },
     "[SELECT]":{
@@ -491,9 +534,10 @@
             "SELECT "
         ],
         "description":[
-            "固定数量オプションの一覧",
-            "List of fixed number options",
-            "固定数量选项列表"
+            "日本語 : ",
+            "固定数量オプションの一覧\nEnglish : ",
+            "List of fixed number options\n中文 : ",
+            "固定数量选项列表\n"
         ]
     },
     "[SELECTARRAY]":{
@@ -502,9 +546,10 @@
             "SELECTARRAY "
         ],
         "description":[
-            "可変数量オプションのリスト",
-            "List of variable number options",
-            "可变数量选项列表"
+            "日本語 : ",
+            "可変数量オプションのリスト\nEnglish : ",
+            "List of variable number options\n中文 : ",
+            "可变数量选项列表\n"
         ]
     },
     "[IF]":{
@@ -513,9 +558,10 @@
             "IF "
         ],
         "description":[
-            "条件分岐",
-            "Conditional Branch",
-            "条件分歧"
+            "日本語 : ",
+            "条件分岐\nEnglish : ",
+            "Conditional Branch\n中文 : ",
+            "条件分歧\n"
         ]
     },
     "[LABEL]":{
@@ -524,9 +570,10 @@
             "LABEL "
         ],
         "description":[
-            "ラベル設定",
-            "Set the label",
-            "跳转与循环"
+            "日本語 : ",
+            "ラベル設定\nEnglish : ",
+            "Set the label\n中文 : ",
+            "跳转与循环\n"
         ]
     },
     "[GOTO]":{
@@ -535,9 +582,10 @@
             "GOTO "
         ],
         "description":[
-            "ラベルへジャンプ",
-            "Jump to the label",
-            "跳转与循环"
+            "日本語 : ",
+            "ラベルへジャンプ\nEnglish : ",
+            "Jump to the label\n中文 : ",
+            "跳转与循环\n"
         ]
     },
     "[SEEK_END]":{
@@ -546,9 +594,10 @@
             "SEEK_END "
         ],
         "description":[
-            "現在のイベントを終了",
-            "End the current event",
-            "终止当前事件"
+            "日本語 : ",
+            "現在のイベントを終了\nEnglish : ",
+            "End the current event\n中文 : ",
+            "终止当前事件\n"
         ]
     },
     "[PR_OUTFIT]":{
@@ -557,9 +606,10 @@
             "PR_OUTFIT "
         ],
         "description":[
-            "衣装の変更",
-            "Costume Change",
-            "换装"
+            "日本語 : ",
+            "衣装の変更\nEnglish : ",
+            "Costume Change\n中文 : ",
+            "换装\n"
         ]
     },
     "[PR_BETO]":{
@@ -568,9 +618,10 @@
             "PR_BETO "
         ],
         "description":[
-            "立ち絵の汚れを設定",
-            "Setting the dirt on character portraits",
-            "动态立绘玷污"
+            "日本語 : ",
+            "立ち絵の汚れを設定\nEnglish : ",
+            "Setting the dirt on character portraits\n中文 : ",
+            "动态立绘玷污\n"
         ]
     },
     "[PR_OMORASHI]":{
@@ -579,9 +630,10 @@
             "PR_OMORASHI "
         ],
         "description":[
-            "お漏らし",
-            "Peeing",
-            "失禁"
+            "日本語 : ",
+            "お漏らし\nEnglish : ",
+            "Peeing\n中文 : ",
+            "失禁\n"
         ]
     },
     "[PR_CURE]":{
@@ -590,9 +642,10 @@
             "PR_CURE "
         ],
         "description":[
-            "状態異常回復フラグの設定",
-            "Setting abnormal status recovery flag",
-            "全回复"
+            "日本語 : ",
+            "状態異常回復フラグの設定\nEnglish : ",
+            "Setting abnormal status recovery flag\n中文 : ",
+            "全回复\n"
         ]
     },
     "[PR_GACHA]":{
@@ -601,9 +654,10 @@
             "PR_GACHA "
         ],
         "description":[
-            "QTE(Quick Time Event)チャレンジ",
-            "QTE (Quick Time Event) Challenge",
-            "进行 QTE 挑战"
+            "日本語 : ",
+            "QTE(Quick Time Event)チャレンジ\nEnglish : ",
+            "QTE (Quick Time Event) Challenge\n中文 : ",
+            "进行 QTE 挑战\n"
         ]
     },
     "[PR_KEY_SIMULATE]":{
@@ -612,9 +666,10 @@
             "PR_KEY_SIMULATE "
         ],
         "description":[
-            "キーストロークをエミュレート",
-            "Emulate keystrokes",
-            "模拟按键"
+            "日本語 : ",
+            "キーストロークをエミュレート\nEnglish : ",
+            "Emulate keystrokes\n中文 : ",
+            "模拟按键\n"
         ]
     },
     "[PR_VOICE]":{
@@ -623,9 +678,10 @@
             "PR_VOICE "
         ],
         "description":[
-            "ノエルちゃんの声の設定",
-            "Noel's voice",
-            "诺艾儿语音"
+            "日本語 : ",
+            "ノエルちゃんの声の設定\nEnglish : ",
+            "Noel's voice\n中文 : ",
+            "诺艾儿语音\n"
         ]
     },
     "[SER_APPLY]":{
@@ -634,9 +690,10 @@
             "SER_APPLY "
         ],
         "description":[
-            "状態異常フラグをセットする",
-            "Set abnormal status flag",
-            "获得异常状态"
+            "日本語 : ",
+            "状態異常フラグをセットする\nEnglish : ",
+            "Set abnormal status flag\n中文 : ",
+            "获得异常状态\n"
         ]
     },
     "[SER_APPLY_NEAR_PEE]":{
@@ -645,9 +702,10 @@
             "SER_APPLY_NEAR_PEE "
         ],
         "description":[
-            "おしがま状態にする",
-            "to hold in pee",
-            "获得异常状态"
+            "日本語 : ",
+            "おしがま状態にする\nEnglish : ",
+            "to hold in pee\n中文 : ",
+            "获得异常状态\n"
         ]
     },
 }
