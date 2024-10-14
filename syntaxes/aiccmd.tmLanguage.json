@@ -1,0 +1,113 @@
+{
+    "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+    "name": "aiccmd",
+    "patterns": [
+        {
+            "include": "#strings_comment"
+        },
+        {
+            "include": "#keywords"
+        },
+        {
+            "include": "#command"
+        },
+        {
+            "include": "#variables"
+        },
+        {
+            "include": "#strings"
+        },
+        {
+            "include": "#comment_block"
+        },
+        {
+            "include": "#comment"
+        }
+    ],
+    "repository": {
+        "strings_comment": {
+            "name": "markup.quote.aiccmd",
+            "begin": "(EOM|EOF)(?!;)",
+            "end": "(EOM;$|EOF;$)",
+            "patterns": [
+                {
+                    "name": "keyword.control.aiccmd",
+                    "match": "\\\\."
+                },
+                {
+                    "include": "#keywords"
+                },
+                {
+                    "name": "string.quoted.double.aiccmd",
+                    "match": "."
+                }
+            ]
+        },
+        "keywords": {
+            "patterns": [
+                {
+                    "name": "markup.inserted.aiccmd",
+                    "match": "\\b(MTL|TL)\\b"
+                },
+                {
+                    "name": "keyword.control.aiccmd",
+                    "match": "\\b(IF|ELSE|WHILE|FOR|RETURN|IS|ISNOT|END|(.)*END|LABEL|GOTO)\\b"
+                },
+                {
+                    "name": "keyword.control.aiccmd",
+                    "match": "(IF(.)*?\\s|ELS(.)*?\\s)"
+                },
+                {
+                    "name": "keyword.control.aiccmd",
+                    "match": "(\\$|@|\\||\\&|\\^|\\!|\\=|\\<|\\>|\\+|\\-|\\*|#|\\~|%)"
+                }
+            ]
+        },
+        "command" : {
+            "patterns": [
+                {
+                    "name": "entity.name.function.aiccmd",
+                    "match": "\\b([A-Z]+[A-Z|_|0-9]*)\\b"
+                }
+            ]
+        },
+        "variables" : {
+            "patterns": [
+                {
+                    "name": "variable.aiccmd",
+                    "match": "(([a-z]|[_]|[A-Z])+(([a-z]|[_]|[0-9]|[A-Z])*))"
+                },
+                {
+                    "name": "support.property-value.aiccmd",
+                    "match": "([0-9]+)"
+                }
+            ]
+        },
+        "strings": {
+            "name": "string.quoted.double.aiccmd",
+            "begin": "(?<!\\\\)\"",
+            "end": "(?<!\\\\)\"",
+            "patterns": [
+                {
+                    "name": "keyword.control.aiccmd",
+                    "match": "\\\\."
+                }
+            ]
+        },
+        "comment_block": {
+            "name": "comment.block.aiccmd",
+            "begin": "/\\*",
+            "end": "\\*/"
+        },
+        "comment": {
+            "patterns": [
+                {
+                    "name": "comment.line.aiccmd",
+                    "match": "\\/\\/(.)*$"
+                }
+            ]
+        }
+        
+    },
+    "scopeName": "source.aiccmd"
+}

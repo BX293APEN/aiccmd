@@ -1,0 +1,566 @@
+{
+    "[TX_BOARD]":{
+        "prefix":"TX_BOARD",
+        "body":[
+            "TX_BOARD "
+        ],
+        "description":[
+            "手紙/通知",
+            "Letters/Notices",
+            "书信/告示牌"
+            
+        ]
+    },
+    "[MSG]":{
+        "prefix":"MSG",
+        "body":[
+            "MSG "
+        ],
+        "description":[
+            "会話/独り言のセリフ",
+            "Dialogue/Monologue",
+            "对话/独白"
+        ]
+    },
+    "[MSG_PREFIX]":{
+        "prefix":"MSG_PREFIX",
+        "body":[
+            "MSG_PREFIX "
+        ],
+        "description":[
+            "会話/独り言のセリフの接頭辞",
+            "Dialogue/monologue prefix",
+            "对话/独白前缀"
+
+        ]
+    },
+    "[TALKER]":{
+        "prefix":"TALKER",
+        "body":[
+            "TALKER "
+        ],
+        "description":[
+            "立ち絵の位置を変更",
+            "Change the portrait position",
+            "更改立绘位置"
+        ]
+    },
+    "[TALKER_REPLACE]":{
+        "prefix":"TALKER_REPLACE",
+        "body":[
+            "TALKER_REPLACE "
+        ],
+        "description":[
+            "キャラクターの名前と声をリンクさせる",
+            "Linking character names and voices",
+            "绑定姓名音效"
+        ]
+    },
+    "[HKDS]":{
+        "prefix":"HKDS",
+        "body":[
+            "HKDS "
+        ],
+        "description":[
+            "会話のスタイル設定",
+            "Dialog box style Settings",
+            "对话框样式设置"
+        ]
+    },
+    "[PIC]":{
+        "prefix":"PIC",
+        "body":[
+            "PIC "
+        ],
+        "description":[
+            "描画差分を変更して画像を表示する",
+            "Change the drawing difference and display picture",
+            "更改立绘差分、显示图片"
+        ]
+    },
+    "[PIC_B]":{
+        "prefix":"PIC_B",
+        "body":[
+            "PIC_B "
+        ],
+        "description":[
+            "無地の背景で画像を表示",
+            "带纯色背景显示图片"
+        ]
+    },
+    "[PIC_MP]":{
+        "prefix":"PIC_MP",
+        "body":[
+            "PIC_MP "
+        ],
+        "description":[
+            "立ち絵の表情を変更",
+            "立绘表情符号"
+        ]
+    },
+    "[MIC_MP2]":{
+        "prefix":"MIC_MP2",
+        "body":[
+            "MIC_MP2 "
+        ],
+        "description":[
+            "立ち絵の表情を変更",
+            "立绘表情符号"
+        ]
+    },
+    "[PIC_MOVEA]":{
+        "prefix":"PIC_MOVEA",
+        "body":[
+            "PIC_MOVEA "
+        ],
+        "description":[
+            "立ち絵の揺れ",
+            "立绘抖动"
+        ]
+    },
+    "[PIC_MVA]":{
+        "prefix":"PIC_MVA",
+        "body":[
+            "PIC_MVA "
+        ],
+        "description":[
+            "立ち絵の揺れ",
+            "立绘抖动"
+        ]
+    },
+    "[PIC_MVA_WHOLE]":{
+        "prefix":"PIC_MVA_WHOLE",
+        "body":[
+            "PIC_MVA_WHOLE "
+        ],
+        "description":[
+            "立ち絵の揺れ",
+            "立绘抖动"
+        ]
+    },
+    "[PIC_FILL]":{
+        "prefix":"PIC_FILL",
+        "body":[
+            "PIC_FILL "
+        ],
+        "description":[
+            "画面淡入淡出"
+        ]
+    },
+    "[PIC_FADEIN]":{
+        "prefix":"PIC_FADEIN",
+        "body":[
+            "PIC_FADEIN "
+        ],
+        "description":[
+            "フェードイン",
+            "画面淡入淡出"
+        ]
+    },
+    "[PIC_FADEOUT]":{
+        "prefix":"PIC_FADEOUT",
+        "body":[
+            "PIC_FADEOUT "
+        ],
+        "description":[
+            "フェードアウト",
+            "画面淡入淡出"
+        ]
+    },
+    "[PIC_FLASH]":{
+        "prefix":"PIC_FLASH",
+        "body":[
+            "PIC_FLASH "
+        ],
+        "description":[
+            "画面をちらつかせる",
+            "画面纯色闪烁"
+        ]
+    },
+    "[PIC_FLIP]":{
+        "prefix":"PIC_FLIP",
+        "body":[
+            "PIC_FLIP "
+        ],
+        "description":[
+            "画像の反転",
+            "图片翻转"
+        ]
+    },
+    "[PIC_HIDE]":{
+        "prefix":"PIC_HIDE",
+        "body":[
+            "PIC_HIDE "
+        ],
+        "description":[
+            "立ち絵や画像を非表示",
+            "隐藏立绘或图片"
+        ]
+    },
+    "[PIC_HIDE_ALL]":{
+        "prefix":"PIC_HIDE_ALL",
+        "body":[
+            "PIC_HIDE_ALL "
+        ],
+        "description":[
+            "立ち絵や画像を非表示",
+            "隐藏立绘或图片"
+        ]
+    },
+    "[PIC_MOVE]":{
+        "prefix":"PIC_MOVE",
+        "body":[
+            "PIC_MOVE "
+        ],
+        "description":[
+            "立ち絵または画像を移動する",
+            "平移立绘或图片"
+        ]
+    },
+    "[PIC_MOVE2]":{
+        "prefix":"PIC_MOVE2",
+        "body":[
+            "PIC_MOVE2 "
+        ],
+        "description":[
+            "立ち絵または画像を移動する",
+            "平移立绘或图片"
+        ]
+    },
+    "[PIC_RADIATION]":{
+        "prefix":"PIC_RADIATION",
+        "body":[
+            "PIC_RADIATION "
+        ],
+        "description":[
+            "三角形を実線にする",
+            "万箭穿心"
+        ]
+    },
+    "[PIC_SWAP]":{
+        "prefix":"PIC_SWAP",
+        "body":[
+            "PIC_SWAP "
+        ],
+        "description":[
+            "レイヤを入れ替える",
+            "交换图层"
+        ]
+    },
+    "[PIC_SWIN]":{
+        "prefix":"PIC_SWIN",
+        "body":[
+            "PIC_SWIN "
+        ],
+        "description":[
+            "1 つのプロンプト画像を表示",
+            "显示单张提示图片"
+        ]
+    },
+    "[PIC_SILHOUETTE]":{
+        "prefix":"PIC_SILHOUETTE",
+        "body":[
+            "PIC_SILHOUETTE "
+        ],
+        "description":[
+            "立ち絵でシルエットを表示"
+        ]
+    },
+    "[PIC_TFADE]":{
+        "prefix":"PIC_TFADE",
+        "body":[
+            "PIC_TFADE "
+        ],
+        "description":[
+            "画像の特別なグラデーション"
+        ]
+    },
+    "[PIC_TEMP_REPLACE_TERM]":{
+        "prefix":"PIC_TEMP_REPLACE_TERM",
+        "body":[
+            "PIC_TEMP_REPLACE_TERM "
+        ],
+        "description":[
+            "立ち絵代替ルール"
+        ]
+    },
+    "[PIC_CLEAR_TERM_CACHE]":{
+        "prefix":"PIC_CLEAR_TERM_CACHE",
+        "body":[
+            "PIC_CLEAR_TERM_CACHE "
+        ],
+        "description":[
+            "立ち絵代替ルール"
+        ]
+    },
+    "[PIC_R]":{
+        "prefix":"PIC_R",
+        "body":[
+            "PIC_R "
+        ],
+        "description":[
+            "F7コンソールコマンド"
+        ]
+    },
+    "[PIC_FINE]":{
+        "prefix":"PIC_FINE",
+        "body":[
+            "PIC_FINE "
+        ],
+        "description":[
+            "レイヤパラメータ有"
+        ]
+    },
+    "[PIC_FINE_ALL]":{
+        "prefix":"PIC_FINE_ALL",
+        "body":[
+            "PIC_FINE_ALL "
+        ],
+        "description":[
+            "レイヤパラメータ無"
+        ]
+    },
+    "[PIC_RECT]":{
+        "prefix":"PIC_RECT",
+        "body":[
+            "PIC_REC "
+        ],
+        "description":[
+            
+        ]
+    },
+    "[WAIT]":{
+        "prefix":"WAIT",
+        "body":[
+            "WAIT "
+        ],
+        "description":[
+            "指定されたフレーム数待機"
+        ]
+    },
+    "[WAIT_BUTTON]":{
+        "prefix":"WAIT_BUTTON",
+        "body":[
+            "WAIT_BUTTON "
+        ],
+        "description":[
+            "指定されたフレーム数待機"
+        ]
+    },
+    "[MTL]":{
+        "prefix":"MTL",
+        "body":[
+            "MTL "
+        ],
+        "description":[
+            "遅延修飾子"
+        ]
+    },
+    "[TL]":{
+        "prefix":"TL",
+        "body":[
+            "TL "
+        ],
+        "description":[
+            "遅延修飾子"
+        ]
+    },
+    "[DOTL]":{
+        "prefix":"DOTL",
+        "body":[
+            "DOTL "
+        ],
+        "description":[
+            "遅延をキャンセル"
+        ]
+    },
+    "[DOMTL]":{
+        "prefix":"DOMTL",
+        "body":[
+            "DOMTL "
+        ],
+        "description":[
+            "遅延をキャンセル"
+        ]
+    },
+    "[CLEARTL]":{
+        "prefix":"CLEARTL",
+        "body":[
+            "CLEARTL "
+        ],
+        "description":[
+            "遅延をキャンセル"
+        ]
+    },
+    "[CLEARMTL]":{
+        "prefix":"CLEARMTL",
+        "body":[
+            "CLEARMTL "
+        ],
+        "description":[
+            "遅延をキャンセル"
+        ]
+    },
+    "[CHANGE_EVENT]":{
+        "prefix":"CHANGE_EVENT",
+        "body":[
+            "CHANGE_EVENT "
+        ],
+        "description":[
+            "別のイベントにジャンプ"
+        ]
+    },
+    "[CHANGE_EVENT2]":{
+        "prefix":"CHANGE_EVENT2",
+        "body":[
+            "CHANGE_EVENT2 "
+        ],
+        "description":[
+            "別のイベントにジャンプ"
+        ]
+    },
+    "[MODULE]":{
+        "prefix":"MODULE",
+        "body":[
+            "MODULE "
+        ],
+        "description":[
+            "マクロの実行"
+        ]
+    },
+    "[SELECT]":{
+        "prefix":"SELECT",
+        "body":[
+            "SELECT "
+        ],
+        "description":[
+            "固定数量オプションの一覧"
+        ]
+    },
+    "[SELECTARRAY]":{
+        "prefix":"SELECTARRAY",
+        "body":[
+            "SELECTARRAY "
+        ],
+        "description":[
+            "可変数量オプションのリスト"
+        ]
+    },
+    "[IF]":{
+        "prefix":"IF",
+        "body":[
+            "IF "
+        ],
+        "description":[
+            "条件分岐"
+        ]
+    },
+    "[LABEL]":{
+        "prefix":"LABEL",
+        "body":[
+            "LABEL "
+        ],
+        "description":[
+            "ラベル設定"
+        ]
+    },
+    "[GOTO]":{
+        "prefix":"GOTO",
+        "body":[
+            "GOTO "
+        ],
+        "description":[
+            "ラベルへジャンプ"
+        ]
+    },
+    "[SEEK_END]":{
+        "prefix":"SEEK_END",
+        "body":[
+            "SEEK_END "
+        ],
+        "description":[
+            "現在のイベントを終了"
+        ]
+    },
+    "[PR_OUTFIT]":{
+        "prefix":"PR_OUTFIT",
+        "body":[
+            "PR_OUTFIT "
+        ],
+        "description":[
+            "衣装の変更"
+        ]
+    },
+    "[PR_BETO]":{
+        "prefix":"PR_BETO",
+        "body":[
+            "PR_BETO "
+        ],
+        "description":[
+            "立ち絵の汚れを設定"
+        ]
+    },
+    "[PR_OMORASHI]":{
+        "prefix":"PR_OMORASHI",
+        "body":[
+            "PR_OMORASHI "
+        ],
+        "description":[
+            "失禁"
+        ]
+    },
+    "[PR_CURE]":{
+        "prefix":"PR_CURE",
+        "body":[
+            "PR_CURE "
+        ],
+        "description":[
+            "状態異常回復フラグの設定"
+        ]
+    },
+    "[PR_GACHA]":{
+        "prefix":"PR_GACHA",
+        "body":[
+            "PR_GACHA "
+        ],
+        "description":[
+            "QTE(Quick Time Event)チャレンジ"
+        ]
+    },
+    "[PR_KEY_SIMULATE]":{
+        "prefix":"PR_KEY_SIMULATE",
+        "body":[
+            "PR_KEY_SIMULATE "
+        ],
+        "description":[
+            "キーストロークをエミュレート"
+        ]
+    },
+    "[PR_VOICE]":{
+        "prefix":"PR_VOICE",
+        "body":[
+            "PR_VOICE "
+        ],
+        "description":[
+            "ノエルの声"
+        ]
+    },
+    "[SER_APPLY]":{
+        "prefix":"SER_APPLY",
+        "body":[
+            "SER_APPLY "
+        ],
+        "description":[
+            "状態異常フラグを発生させる"
+        ]
+    },
+    "[SER_APPLY_NEAR_PEE]":{
+        "prefix":"SER_APPLY_NEAR_PEE",
+        "body":[
+            "SER_APPLY_NEAR_PEE "
+        ],
+        "description":[
+            "状態異常を発生させる"
+        ]
+    },
+}

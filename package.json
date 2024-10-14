@@ -1,0 +1,35 @@
+{
+    "name": "aiccmd",
+    "displayName": "Alice in Cradle CMD Script",
+    "description": "Alice in Crade NanameHacha Script Language Pack",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.94.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "aiccmd",
+            "aliases": ["aiccmd", "aiccmd"],
+            "extensions": [".aiccmd"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "aiccmd",
+            "scopeName": "source.aiccmd",
+            "path": "./syntaxes/aiccmd.tmLanguage.json"
+        }],
+        "snippets": [
+            {
+                "language": "aiccmd",
+                "scopeName":"source.aiccmd",
+                "path": "./snippet/aiccmd.snippet.json"
+            }
+        ]
+    },
+    "publisher": "BX293A_PEN",
+    "icon": "config/noel.ico"
+    
+}
