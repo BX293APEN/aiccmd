@@ -2,7 +2,7 @@
     "name": "aiccmd",
     "displayName": "Alice in Cradle CMD Script",
     "description": "Alice in Crade NanameHacha Script Language Pack",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.94.0"
     },

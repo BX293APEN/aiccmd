@@ -5,8 +5,8 @@
             "TX_BOARD "
         ],
         "description":[
-            "手紙/通知",
-            "Letters/Notices",
+            "メッセージ/お知らせ",
+            "Message/Notices",
             "书信/告示牌"
             
         ]
@@ -17,7 +17,7 @@
             "MSG "
         ],
         "description":[
-            "会話/独り言のセリフ",
+            "会話・独り言のセリフを設定",
             "Dialogue/Monologue",
             "对话/独白"
         ]
@@ -28,7 +28,7 @@
             "MSG_PREFIX "
         ],
         "description":[
-            "会話/独り言のセリフの接頭辞",
+            "会話・独り言のセリフの開始",
             "Dialogue/monologue prefix",
             "对话/独白前缀"
 
@@ -62,7 +62,7 @@
             "HKDS "
         ],
         "description":[
-            "会話のスタイル設定",
+            "ダイアログボックスのスタイルを設定",
             "Dialog box style Settings",
             "对话框样式设置"
         ]
@@ -73,7 +73,7 @@
             "PIC "
         ],
         "description":[
-            "描画差分を変更して画像を表示する",
+            "描画差分を変更して立ち絵を表示する",
             "Change the drawing difference and display picture",
             "更改立绘差分、显示图片"
         ]
@@ -84,7 +84,8 @@
             "PIC_B "
         ],
         "description":[
-            "無地の背景で画像を表示",
+            "単色背景で立ち絵を表示",
+            "Display picture with solid color background",
             "带纯色背景显示图片"
         ]
     },
@@ -95,6 +96,7 @@
         ],
         "description":[
             "立ち絵の表情を変更",
+            "Change the facial expression of the character",
             "立绘表情符号"
         ]
     },
@@ -105,6 +107,7 @@
         ],
         "description":[
             "立ち絵の表情を変更",
+            "Change the facial expression of the character",
             "立绘表情符号"
         ]
     },
@@ -114,7 +117,8 @@
             "PIC_MOVEA "
         ],
         "description":[
-            "立ち絵の揺れ",
+            "立ち絵にエフェクトを付ける",
+            "Add effects to portraits",
             "立绘抖动"
         ]
     },
@@ -124,7 +128,8 @@
             "PIC_MVA "
         ],
         "description":[
-            "立ち絵の揺れ",
+            "立ち絵にエフェクトを付ける",
+            "Add effects to portraits",
             "立绘抖动"
         ]
     },
@@ -134,7 +139,8 @@
             "PIC_MVA_WHOLE "
         ],
         "description":[
-            "立ち絵の揺れ",
+            "立ち絵にエフェクトを付ける",
+            "Add effects to portraits",
             "立绘抖动"
         ]
     },
@@ -144,6 +150,8 @@
             "PIC_FILL "
         ],
         "description":[
+            "立ち絵を塗りつぶす",
+            "Fill the portrait",
             "画面淡入淡出"
         ]
     },
@@ -153,7 +161,8 @@
             "PIC_FADEIN "
         ],
         "description":[
-            "フェードイン",
+            "立ち絵をフェードインする",
+            "Fade in the portrait",
             "画面淡入淡出"
         ]
     },
@@ -163,7 +172,8 @@
             "PIC_FADEOUT "
         ],
         "description":[
-            "フェードアウト",
+            "立ち絵をフェードアウトする",
+            "Fade out the portrait",
             "画面淡入淡出"
         ]
     },
@@ -174,6 +184,7 @@
         ],
         "description":[
             "画面をちらつかせる",
+            "Flickering the screen",
             "画面纯色闪烁"
         ]
     },
@@ -183,7 +194,8 @@
             "PIC_FLIP "
         ],
         "description":[
-            "画像の反転",
+            "立ち絵を反転させる",
+            "Flip the portrait",
             "图片翻转"
         ]
     },
@@ -193,7 +205,8 @@
             "PIC_HIDE "
         ],
         "description":[
-            "立ち絵や画像を非表示",
+            "立ち絵・画像を非表示",
+            "Hide portraits and images",
             "隐藏立绘或图片"
         ]
     },
@@ -203,7 +216,8 @@
             "PIC_HIDE_ALL "
         ],
         "description":[
-            "立ち絵や画像を非表示",
+            "立ち絵・画像を非表示",
+            "Hide portraits and images",
             "隐藏立绘或图片"
         ]
     },
@@ -213,7 +227,8 @@
             "PIC_MOVE "
         ],
         "description":[
-            "立ち絵または画像を移動する",
+            "立ち絵・画像を移動",
+            "Moving portraits and images",
             "平移立绘或图片"
         ]
     },
@@ -223,7 +238,8 @@
             "PIC_MOVE2 "
         ],
         "description":[
-            "立ち絵または画像を移動する",
+            "立ち絵・画像を移動",
+            "Moving portraits and images",
             "平移立绘或图片"
         ]
     },
@@ -233,7 +249,8 @@
             "PIC_RADIATION "
         ],
         "description":[
-            "三角形を実線にする",
+            "放射状の強調エフェクトを付ける",
+            "Add a radial emphasis effect",
             "万箭穿心"
         ]
     },
@@ -244,6 +261,7 @@
         ],
         "description":[
             "レイヤを入れ替える",
+            "Swap layers",
             "交换图层"
         ]
     },
@@ -254,6 +272,7 @@
         ],
         "description":[
             "1 つのプロンプト画像を表示",
+            "Displays a single prompt image",
             "显示单张提示图片"
         ]
     },
@@ -263,7 +282,9 @@
             "PIC_SILHOUETTE "
         ],
         "description":[
-            "立ち絵でシルエットを表示"
+            "立ち絵のシルエットを表示",
+            "Display silhouette of character",
+            "显示立绘剪影"
         ]
     },
     "[PIC_TFADE]":{
@@ -272,7 +293,9 @@
             "PIC_TFADE "
         ],
         "description":[
-            "画像の特別なグラデーション"
+            "特殊グラデーションを画像に設定",
+            "Set special gradient to image",
+            "图片特殊渐变"
         ]
     },
     "[PIC_TEMP_REPLACE_TERM]":{
@@ -281,7 +304,9 @@
             "PIC_TEMP_REPLACE_TERM "
         ],
         "description":[
-            "立ち絵代替ルール"
+            "立ち絵代替ルール",
+            "Alternative rules for character portraits",
+            "立绘替换规则"
         ]
     },
     "[PIC_CLEAR_TERM_CACHE]":{
@@ -290,7 +315,9 @@
             "PIC_CLEAR_TERM_CACHE "
         ],
         "description":[
-            "立ち絵代替ルール"
+            "立ち絵代替ルール",
+            "Alternative rules for character portraits",
+            "立绘替换规则"
         ]
     },
     "[PIC_R]":{
@@ -299,7 +326,9 @@
             "PIC_R "
         ],
         "description":[
-            "F7コンソールコマンド"
+            "F7コンソールコマンド",
+            "F7 Console Command",
+            "游戏中未使用，似乎不是哈语言指令而是 F7 控制台命令。"
         ]
     },
     "[PIC_FINE]":{
@@ -308,7 +337,9 @@
             "PIC_FINE "
         ],
         "description":[
-            "レイヤパラメータ有"
+            "レイヤパラメータ有",
+            "There are layer parameters",
+            "带一个图层参数"
         ]
     },
     "[PIC_FINE_ALL]":{
@@ -317,7 +348,9 @@
             "PIC_FINE_ALL "
         ],
         "description":[
-            "レイヤパラメータ無"
+            "レイヤパラメータ無",
+            "There aren't layer parameters",
+            "无参数且在休息室的浴室和牧场用到"
         ]
     },
     "[PIC_RECT]":{
@@ -326,7 +359,9 @@
             "PIC_REC "
         ],
         "description":[
-            
+            "現在、ゲームでは使用されていません。",
+            "Currently not used in the game.",
+            "游戏中未使用"
         ]
     },
     "[WAIT]":{
@@ -335,7 +370,9 @@
             "WAIT "
         ],
         "description":[
-            "指定されたフレーム数待機"
+            "指定されたフレーム数待機",
+            "Wait a specified number of frames",
+            "阻塞指定帧数"
         ]
     },
     "[WAIT_BUTTON]":{
@@ -344,7 +381,9 @@
             "WAIT_BUTTON "
         ],
         "description":[
-            "指定されたフレーム数待機"
+            "指定されたフレーム数待機",
+            "Wait a specified number of frames",
+            "阻塞指定帧数"
         ]
     },
     "[MTL]":{
@@ -353,7 +392,9 @@
             "MTL "
         ],
         "description":[
-            "遅延修飾子"
+            "遅延修飾子",
+            "Delay Modifier",
+            "延迟修饰符"
         ]
     },
     "[TL]":{
@@ -362,7 +403,9 @@
             "TL "
         ],
         "description":[
-            "遅延修飾子"
+            "遅延修飾子",
+            "Delay Modifier",
+            "延迟修饰符"
         ]
     },
     "[DOTL]":{
@@ -371,7 +414,9 @@
             "DOTL "
         ],
         "description":[
-            "遅延をキャンセル"
+            "遅延をキャンセル",
+            "Cancel delay",
+            "取消延迟"
         ]
     },
     "[DOMTL]":{
@@ -380,7 +425,9 @@
             "DOMTL "
         ],
         "description":[
-            "遅延をキャンセル"
+            "遅延をキャンセル",
+            "Cancel delay",
+            "取消延迟"
         ]
     },
     "[CLEARTL]":{
@@ -389,7 +436,9 @@
             "CLEARTL "
         ],
         "description":[
-            "遅延をキャンセル"
+            "遅延をキャンセル",
+            "Cancel delay",
+            "取消延迟"
         ]
     },
     "[CLEARMTL]":{
@@ -398,7 +447,9 @@
             "CLEARMTL "
         ],
         "description":[
-            "遅延をキャンセル"
+            "遅延をキャンセル",
+            "Cancel delay",
+            "取消延迟"
         ]
     },
     "[CHANGE_EVENT]":{
@@ -407,7 +458,9 @@
             "CHANGE_EVENT "
         ],
         "description":[
-            "別のイベントにジャンプ"
+            "別のイベントにジャンプ",
+            "Jump to another event",
+            "跳转到另一事件"
         ]
     },
     "[CHANGE_EVENT2]":{
@@ -416,7 +469,9 @@
             "CHANGE_EVENT2 "
         ],
         "description":[
-            "別のイベントにジャンプ"
+            "別のイベントにジャンプ",
+            "Jump to another event",
+            "跳转到另一事件"
         ]
     },
     "[MODULE]":{
@@ -425,7 +480,9 @@
             "MODULE "
         ],
         "description":[
-            "マクロの実行"
+            "マクロの実行",
+            "Execute macro",
+            "执行宏"
         ]
     },
     "[SELECT]":{
@@ -434,7 +491,9 @@
             "SELECT "
         ],
         "description":[
-            "固定数量オプションの一覧"
+            "固定数量オプションの一覧",
+            "List of fixed number options",
+            "固定数量选项列表"
         ]
     },
     "[SELECTARRAY]":{
@@ -443,7 +502,9 @@
             "SELECTARRAY "
         ],
         "description":[
-            "可変数量オプションのリスト"
+            "可変数量オプションのリスト",
+            "List of variable number options",
+            "可变数量选项列表"
         ]
     },
     "[IF]":{
@@ -452,7 +513,9 @@
             "IF "
         ],
         "description":[
-            "条件分岐"
+            "条件分岐",
+            "Conditional Branch",
+            "条件分歧"
         ]
     },
     "[LABEL]":{
@@ -461,7 +524,9 @@
             "LABEL "
         ],
         "description":[
-            "ラベル設定"
+            "ラベル設定",
+            "Set the label",
+            "跳转与循环"
         ]
     },
     "[GOTO]":{
@@ -470,7 +535,9 @@
             "GOTO "
         ],
         "description":[
-            "ラベルへジャンプ"
+            "ラベルへジャンプ",
+            "Jump to the label",
+            "跳转与循环"
         ]
     },
     "[SEEK_END]":{
@@ -479,7 +546,9 @@
             "SEEK_END "
         ],
         "description":[
-            "現在のイベントを終了"
+            "現在のイベントを終了",
+            "End the current event",
+            "终止当前事件"
         ]
     },
     "[PR_OUTFIT]":{
@@ -488,7 +557,9 @@
             "PR_OUTFIT "
         ],
         "description":[
-            "衣装の変更"
+            "衣装の変更",
+            "Costume Change",
+            "换装"
         ]
     },
     "[PR_BETO]":{
@@ -497,7 +568,9 @@
             "PR_BETO "
         ],
         "description":[
-            "立ち絵の汚れを設定"
+            "立ち絵の汚れを設定",
+            "Setting the dirt on character portraits",
+            "动态立绘玷污"
         ]
     },
     "[PR_OMORASHI]":{
@@ -506,6 +579,8 @@
             "PR_OMORASHI "
         ],
         "description":[
+            "お漏らし",
+            "Peeing",
             "失禁"
         ]
     },
@@ -515,7 +590,9 @@
             "PR_CURE "
         ],
         "description":[
-            "状態異常回復フラグの設定"
+            "状態異常回復フラグの設定",
+            "Setting abnormal status recovery flag",
+            "全回复"
         ]
     },
     "[PR_GACHA]":{
@@ -524,7 +601,9 @@
             "PR_GACHA "
         ],
         "description":[
-            "QTE(Quick Time Event)チャレンジ"
+            "QTE(Quick Time Event)チャレンジ",
+            "QTE (Quick Time Event) Challenge",
+            "进行 QTE 挑战"
         ]
     },
     "[PR_KEY_SIMULATE]":{
@@ -533,7 +612,9 @@
             "PR_KEY_SIMULATE "
         ],
         "description":[
-            "キーストロークをエミュレート"
+            "キーストロークをエミュレート",
+            "Emulate keystrokes",
+            "模拟按键"
         ]
     },
     "[PR_VOICE]":{
@@ -542,7 +623,9 @@
             "PR_VOICE "
         ],
         "description":[
-            "ノエルの声"
+            "ノエルちゃんの声の設定",
+            "Noel's voice",
+            "诺艾儿语音"
         ]
     },
     "[SER_APPLY]":{
@@ -551,7 +634,9 @@
             "SER_APPLY "
         ],
         "description":[
-            "状態異常フラグを発生させる"
+            "状態異常フラグをセットする",
+            "Set abnormal status flag",
+            "获得异常状态"
         ]
     },
     "[SER_APPLY_NEAR_PEE]":{
@@ -560,7 +645,9 @@
             "SER_APPLY_NEAR_PEE "
         ],
         "description":[
-            "状態異常を発生させる"
+            "おしがま状態にする",
+            "to hold in pee",
+            "获得异常状态"
         ]
     },
 }
