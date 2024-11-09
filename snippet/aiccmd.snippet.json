@@ -15,7 +15,7 @@
     "[MSG]":{
         "prefix":"MSG",
         "body":[
-            "MSG "
+            "MSG ${1:name}_${2:id} ${3: }" 
         ],
         "description":[
             "日本語 : ",
@@ -696,16 +696,148 @@
             "获得异常状态\n"
         ]
     },
-    "[SER_APPLY_NEAR_PEE]":{
-        "prefix":"SER_APPLY_NEAR_PEE",
+    "[A]":{
+        "prefix":" A",
         "body":[
-            "SER_APPLY_NEAR_PEE "
+            "A"
         ],
         "description":[
             "日本語 : ",
-            "おしがま状態にする\nEnglish : ",
-            "to hold in pee\n中文 : ",
-            "获得异常状态\n"
+            "このダイアログ ボックスでは、丸みを帯びた角と、ソード マウンテン ポリュータントのようなスパイクで囲まれた長方形の角というスタイルが適用されます。<angry>\nEnglish : ",
+            "The dialog box enforces a style, with rounded corners and rectangular corners surrounded by spikes like the Sword Mountain Pollutant.<angry>\n中文 : ",
+            "对话框强制使用样式，圆角矩形且四周冒出剑山污染体一样的尖刺。<angry>\n"
         ]
     },
+    "[B]":{
+        "prefix":" B",
+        "body":[
+            "B"
+        ],
+        "description":[
+            "日本語 : ",
+            "バックグラウンドのダイアログボックス(? )は、NPCの喧騒でよく使用されます。\nEnglish : ",
+            "Dialog box in the background (?) ), often used in the hustle and bustle of NPCs.\n中文 : ",
+            "对话框置于背景（？），常用于 NPC 的喧嚣。\n"
+        ]
+    },
+    "[C]":{
+        "prefix":" C",
+        "body":[
+            "C"
+        ],
+        "description":[
+            "日本語 : ",
+            "テキストが表示された後、キーが押されるのを待つ必要はなく、ダイアログボックスは消えません。\nEnglish : ",
+            "After the text is displayed, there is no waiting for the key to be pressed, and the dialog box does not disappear.\n中文 : ",
+            "文字显示完后不等待按键，对话框也不消失。\n"
+        ]
+    },
+    "[D]":{
+        "prefix":" D",
+        "body":[
+            "D"
+        ],
+        "description":[
+            "日本語 : ",
+            "このダイアログ ボックスでは、灰色の背景に青いエッジを持つ平行四辺形のスタイルの使用が強制されます。<device>\nEnglish : ",
+            "The dialog box enforces the use of styles, with a parallelogram with blue edges on a gray background.<device>\n中文 : ",
+            "对话框强制使用样式，灰底蓝边尖角平行四边形。<device>\n"
+        ]
+    },
+    "[F]":{
+        "prefix":" F",
+        "body":[
+            "F"
+        ],
+        "description":[
+            "日本語 : ",
+            "ダイアログがフォアグラウンドに配置されている (?) そして、NPCの喧騒でよく使用される色に焦点を当てます。\nEnglish : ",
+            "The dialog is placed in the foreground (?) and focus on the color, often used in the hustle and bustle of NPCs.\n中文 : ",
+            "对话框置于前景（？）并聚焦颜色，常用于 NPC 的喧嚣。\n"
+        ]
+    },
+    "[I]":{
+        "prefix":" I",
+        "body":[
+            "I"
+        ],
+        "description":[
+            "日本語 : ",
+            "ダイアログをすぐに表示し (テキストの内容はすぐには表示されないことに注意してください)、フェードインや歪みの影響はありません。\nEnglish : ",
+            "Displays the dialog immediately (note that the text content is not displayed immediately), with no fade in and distortion effects.\n中文 : ",
+            "立刻显示对话框（注意不是立刻显示完文字内容），无淡入和变形效果。\n"
+        ]
+    },
+    "[K]":{
+        "prefix":" K",
+        "body":[
+            "K[$1]"
+        ],
+        "description":[
+            "日本語 : ",
+            "p を位置パラメータ (通常は L または LL) としてページを表示します。これは、以前の書き込み方法と同等です。MSG BOOK@p_id\nEnglish : ",
+            "Displays the page with p as a positional parameter (usually L or LL), which is equivalent to the previous way of writing.MSG BOOK@p_id\n中文 : ",
+            "以 p 为位置参数（常用 L 或 LL）显示书页，相当于以前的写法。MSG BOOK@p_id\n"
+        ]
+    },
+    "[M]":{
+        "prefix":" M",
+        "body":[
+            "M"
+        ],
+        "description":[
+            "日本語 : ",
+            "merge_flagを有効にすると、先生のセリフは教室で役立ちますが、効果は不明です。\nEnglish : ",
+            "Enable merge_flag, the teacher's lines are useful in the classroom, but the effect is unknown.\n中文 : ",
+            " 启用 merge_flag，在教室上课时老师的台词有用到，作用不明。\n"
+        ]
+    },
+    "[P]":{
+        "prefix":" P",
+        "body":[
+            "P[$1]"
+        ],
+        "description":[
+            "日本語 : ",
+            "プレイヤーがボタンを押すのを待たずに、Tフレームの後にこのダイアログを自動的に認識します。これはベルメットレイドで使用されます。\nEnglish : ",
+            "Automatically acknowledges this dialogue after a t-frame without waiting for the player to press the button, used in the Belmet Raid.\n中文 : ",
+            "在 t 帧后自动确认此对话而不等待玩家按键，用于贝尔米特袭击事件。\n"
+        ]
+    },
+    "[R]":{
+        "prefix":" R",
+        "body":[
+            "R[$1]"
+        ],
+        "description":[
+            "日本語 : ",
+            "ログに y_id として表示されるこの会話の内容で、バーテンダーのコード効果に使用されます。\nEnglish : ",
+            "The content of this conversation that appears in the log as y_id, used for the bartender's code effect.\n中文 : ",
+            "本条对话在记录中显示为 y_id 的内容，用于酒保的暗号效果。\n"
+        ]
+    },
+    "[T]":{
+        "prefix":" T",
+        "body":[
+            "T"
+        ],
+        "description":[
+            "日本語 : ",
+            "セリフは、角が丸い耳になり、キャラクターを指す鋭い角が小さな泡になるというスタイルを強制します。<think>\nEnglish : ",
+            "The dialog forces a style, with the corners becoming round ears and the sharp corners pointing at the character becoming small bubbles.<think>\n中文 : ",
+            "对话框强制使用样式，四角变成圆耳朵，指向角色的尖角变成小气泡。<think>\n"
+        ]
+    },
+    "[V]":{
+        "prefix":" V",
+        "body":[
+            "V"
+        ],
+        "description":[
+            "日本語 : ",
+            "ダイアログ ボックスでは、灰色の背景に赤いエッジの丸みを帯びた平行四辺形と、入力速度が 6 分の 1 のスタイルが適用されます。<evil>\nEnglish : ",
+            "The dialog box enforces a style, with a rounded parallelogram with red edges on a gray background, and a typing speed of one-sixth.<evil>\n中文 : ",
+            "对话框强制使用样式，灰底红边圆角平行四边形，打字速度变为六分之一。<evil>\n"
+        ]
+    }
 }

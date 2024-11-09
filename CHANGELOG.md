@@ -7,6 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 ### Added
+- v0.0.5
+    * Expanded autocomplete functionality
 - v0.0.4
     * Create a simple snippet
     * Snippets now support Japanese/English/Chinese
