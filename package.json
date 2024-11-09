@@ -30,6 +30,16 @@
         ]
     },
     "publisher": "BX293A_PEN",
-    "icon": "config/noel.ico"
-    
+    "icon": "config/noel.ico",
+    "license" : "SEE LICENSE IN LICENCE",
+    "qna" : "https://discord.com/channels/973550788695687168/1006504267735113771",
+    "keywords" : ["aic", "game", "hashcode", "cmd", "script"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BX293APEN/aiccmd"
+    },
+    "bugs": {
+        "url": "https://discord.com/channels/973550788695687168/1006504267735113771"
+    },
+    "homepage": "https://github.com/BX293APEN/aiccmd/blob/main/README.md"
 }
