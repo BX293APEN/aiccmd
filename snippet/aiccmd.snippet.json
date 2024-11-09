@@ -2,7 +2,7 @@
     "[TX_BOARD]":{
         "prefix":"TX_BOARD",
         "body":[
-            "TX_BOARD "
+            "TX_BOARD ${1:id} ${2:n}"
         ],
         "description":[
             "日本語 : ",
@@ -15,7 +15,7 @@
     "[MSG]":{
         "prefix":"MSG",
         "body":[
-            "MSG ${1:name}_${2:id} ${3: }" 
+            "MSG ${1:name}_${2:id} $3" 
         ],
         "description":[
             "日本語 : ",
@@ -39,7 +39,7 @@
     "[TALKER]":{
         "prefix":"TALKER",
         "body":[
-            "TALKER "
+            "TALKER ${1:x} ${2:p}"
         ],
         "description":[
             "日本語 : ",
@@ -51,7 +51,7 @@
     "[TALKER_REPLACE]":{
         "prefix":"TALKER_REPLACE",
         "body":[
-            "TALKER_REPLACE "
+            "TALKER_REPLACE ${1:x} ${2:name} $3"
         ],
         "description":[
             "日本語 : ",
@@ -63,7 +63,7 @@
     "[HKDS]":{
         "prefix":"HKDS",
         "body":[
-            "HKDS "
+            "HKDS ${1:x} ${2:pos} ${3:from} ${4:style}"
         ],
         "description":[
             "日本語 : ",
@@ -75,7 +75,7 @@
     "[PIC]":{
         "prefix":"PIC",
         "body":[
-            "PIC "
+            "PIC $1"
         ],
         "description":[
             "日本語 : ",
@@ -699,7 +699,7 @@
     "[A]":{
         "prefix":" A",
         "body":[
-            "A"
+            " A"
         ],
         "description":[
             "日本語 : ",
@@ -711,7 +711,7 @@
     "[B]":{
         "prefix":" B",
         "body":[
-            "B"
+            " B"
         ],
         "description":[
             "日本語 : ",
@@ -723,7 +723,7 @@
     "[C]":{
         "prefix":" C",
         "body":[
-            "C"
+            " C"
         ],
         "description":[
             "日本語 : ",
@@ -735,7 +735,7 @@
     "[D]":{
         "prefix":" D",
         "body":[
-            "D"
+            " D"
         ],
         "description":[
             "日本語 : ",
@@ -747,7 +747,7 @@
     "[F]":{
         "prefix":" F",
         "body":[
-            "F"
+            " F"
         ],
         "description":[
             "日本語 : ",
@@ -759,7 +759,7 @@
     "[I]":{
         "prefix":" I",
         "body":[
-            "I"
+            " I"
         ],
         "description":[
             "日本語 : ",
@@ -771,7 +771,7 @@
     "[K]":{
         "prefix":" K",
         "body":[
-            "K[$1]"
+            " K[$1]"
         ],
         "description":[
             "日本語 : ",
@@ -783,7 +783,7 @@
     "[M]":{
         "prefix":" M",
         "body":[
-            "M"
+            " M"
         ],
         "description":[
             "日本語 : ",
@@ -795,7 +795,7 @@
     "[P]":{
         "prefix":" P",
         "body":[
-            "P[$1]"
+            " P[$1]"
         ],
         "description":[
             "日本語 : ",
@@ -807,7 +807,7 @@
     "[R]":{
         "prefix":" R",
         "body":[
-            "R[$1]"
+            " R[$1]"
         ],
         "description":[
             "日本語 : ",
@@ -819,7 +819,7 @@
     "[T]":{
         "prefix":" T",
         "body":[
-            "T"
+            " T"
         ],
         "description":[
             "日本語 : ",
@@ -831,7 +831,7 @@
     "[V]":{
         "prefix":" V",
         "body":[
-            "V"
+            " V"
         ],
         "description":[
             "日本語 : ",

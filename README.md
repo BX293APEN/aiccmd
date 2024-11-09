@@ -148,3 +148,6 @@ If you don't like the default highlights, please change `.vscode/settings.json` 
 
 ## References
 > [Alice in Cradle 技術創造の完全ガイド](https://aliceincradle.org/hashcode.html)
+
+## Lisence
+This project is licensed under the MIT License, see the LICENSE file for details
